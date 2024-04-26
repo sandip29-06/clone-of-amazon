@@ -61,6 +61,11 @@
     width: 620px;
     height: 40px;
     border-radius: 4px;
+    border: 1px solid black;
+}
+
+.nav-search:hover{
+    border: 1px solid orange;
 }
 
 .search-select{
@@ -90,9 +95,7 @@
     color: #0f1111;
 }
 
-/* .nav-search:hover{
-    border: 1px solid orange;
-} */
+
 
 /** box4 **/
 span{
